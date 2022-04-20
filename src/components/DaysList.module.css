@@ -1,8 +1,6 @@
 .container {
   max-width: 1200px;
   display: flex;
-
-  /* background-color: #f003; */
   flex-wrap: wrap;
   gap: 0.5rem;
   width: 100%;
@@ -10,4 +8,5 @@
   margin: 0 auto;
   padding: 1rem;
   overflow: hidden;
+  justify-content: center;
 }
